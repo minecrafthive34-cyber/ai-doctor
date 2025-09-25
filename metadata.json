@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of AI Doctor",
+  "description": "An AI-powered application that provides comprehensive information on various sicknesses, diseases, cancers, and viruses for informational purposes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
